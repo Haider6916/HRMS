@@ -1,0 +1,6 @@
+.adminSettingsPage{
+    margin: 90px 30px;
+        box-shadow: 0px 1px 2px rgb(0 0 0 / 30%), 0px 2px 6px 2px rgb(0 0 0 / 15%);
+        border-radius: 15px;
+        padding: 20px;
+}

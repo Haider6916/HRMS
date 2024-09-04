@@ -1,0 +1,35 @@
+.iconStyle > svg {
+    margin-top: 10px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+#edit_buttonStyle{
+    padding: 10px 24px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: 10px;
+    text-transform: none;
+    font-size: 14px;
+    font-weight: 700;
+    color: #0098C9;
+    background-color: rgba(0, 152, 201, 0.2);
+}
+#edit_buttonStyle:hover{
+    background-color: rgba(52, 170, 209, 0.342);
+}
+
+#dis_buttonStyle, #enb_buttonStyle{
+    padding: 10px 24px;
+    height: 40px;
+    border-radius: 50px;
+    margin-right: 12px;
+    text-transform: none;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background-color: #FF5630;
+}
+#dis_buttonStyle:hover, #enb_buttonStyle:hover{
+    background-color: #f8461e;
+}

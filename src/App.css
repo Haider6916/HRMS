@@ -1,0 +1,8 @@
+.side_nav_heading{
+        margin: 0;
+            padding-left: 18px;
+            font-size: 13px;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: rgba(95, 95, 95, 1);
+}

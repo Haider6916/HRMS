@@ -1,0 +1,87 @@
+.Profile_Logo{
+    width: 100px;
+    height: 100px;
+    background:red;
+    border-radius: 100px;
+}
+.Profile_Logo>img{
+display: flex;
+flex-direction: row;
+    
+}
+/* .textField
+{
+    width:500px;
+    height:50px;
+
+} */
+.Btn{
+   float: right;
+    width: 140px;
+    height: 40px;
+    border-radius: 50px;
+  
+}
+.Textfield{
+    width: 500px;
+    height:54px;
+}
+.Btn>button{
+    border-radius: 100px;
+    /* background: "rgba(31, 31, 31, 0.12)"; */
+
+}
+
+
+#profile-image-upload{
+    display: none
+}
+/* .upload{
+ border:"1px solid #000";
+  padding:"20px ";
+  margin-left:"30px ";
+   cursor:"pointer";
+   color:'#0098C9';
+   width:'142px';
+   height:'20px';
+   line-height:'20px';
+   display:'flex';
+   align-items:'center';
+   text-align:'center';
+   border-radius:'10px';
+   letter-spacing:'0.1px';
+   border:'1px solid red'
+} */
+
+.ant-input-number-handler-wrap{
+    display: none;
+}
+
+.ant-message{
+    top: 70px !important;
+}
+
+.addContactNo > div > div:nth-child(2) > div > div > .react-tel-input > .form-control  {
+height: 32px !important;
+border: 1px solid #d9d9d9;
+border-radius: 0;
+width: 80%;
+}
+.emergencyContact > div > div:nth-child(2) > div > div > .react-tel-input > .form-control  {
+height: 32px !important;
+border: 1px solid #d9d9d9;
+border-radius: 10px;
+}
+.emergencyContact > div > div:nth-child(2) > div > div > .react-tel-input > .flag-dropdown   {
+border-radius: 10px 0 0 10px;
+}
+
+.contactInput > div:nth-child(2) > div > div:nth-child(2) > div > div > div > .form-control  {
+border-radius: 10px;
+}
+.contactInput > div:nth-child(2) > div > div:nth-child(2) > div > div > div > .flag-dropdown   {
+border-radius: 10px 0px 0px 10px;
+}
+.avtarImage >span >span{
+    vertical-align: sub;
+}

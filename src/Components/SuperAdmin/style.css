@@ -1,0 +1,28 @@
+/* Super Admin Form Button */
+
+.continue-button{
+
+    /* text-align: center; */
+    /* margin-left: 80px; */
+  
+}
+.continue-button>button{
+   
+    border-radius: 100px;
+    background-color: #0098C9;
+    width: 250px;
+    height: 50px;
+}
+.Text-Field{
+    width: 424px;
+    height: 50px;
+}
+.Text-date{
+    width: 290px;
+    height: 50px;
+
+}
+
+.ant-form-item-control{
+    max-width: 100% !important;
+}

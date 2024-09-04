@@ -1,0 +1,30 @@
+.change-image-container{
+    display: flex;
+        align-content: center;
+        align-items: flex-start;
+        gap: 10px;
+        margin-left: 15px;
+        margin-top: 10px;
+        cursor: pointer;
+}
+
+.change-image-container > label > input{
+    display: none;
+}
+
+.admin-image-actions{
+    display: flex;
+        gap: 20px;
+        margin: 10px 0 0 40px;
+}
+
+.change-image-text{ 
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+        /* identical to box height */
+        text-transform: capitalize;    
+        color: #0098C9;
+}

@@ -1,0 +1,28 @@
+.text-fieled{
+    margin-top: 10px;
+    width: 714px;
+
+}
+.heading{
+    color: #1C1E23;
+    text-transform: uppercase;
+    line-height: 19px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+    margin-bottom: 200px;
+}
+.label{
+    color: #4D5959;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-top: 30px;
+
+}
+
+.settings-card{
+        box-shadow: 0px 1px 2px rgb(0 0 0 / 30%), 0px 2px 6px 2px rgb(0 0 0 / 15%);
+        border-radius: 10px;
+        height: 85%;
+        margin: 80px 10px 0px;
+        padding: 35px;
+}

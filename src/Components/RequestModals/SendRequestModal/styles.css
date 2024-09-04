@@ -1,0 +1,38 @@
+.modal-header-req{
+        display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            gap: 15px;
+}
+
+.modal-header-main{
+    margin: 0;
+}
+
+.modal-header-sec{
+    margin: 0;
+    font-size: 12px;
+        font-weight: 400;
+}
+
+.ant-select-selector{
+    border-radius: 10px !important;
+}
+
+
+.modal-field-heading{
+        color: rgba(0, 0, 0, 0.5);
+            font-size: 12px;
+            margin-bottom: 7px;
+}
+
+.text-area-modal {
+        height: 120px !important;
+            resize: none !important;
+            border-radius: 10px !important;
+}
+
+.submit-modal{
+        display: flex;
+            justify-content: flex-end;
+}

@@ -1,0 +1,8 @@
+.phone-input-style > div > div:nth-child(2) > div > div > div > input {
+border-radius: 10px;
+border: 1px solid #d9d9d9;
+}
+.phone-input-style > div > div:nth-child(2) > div > div > div > .flag-dropdown  {
+    border-radius: 10px 0 0 10px;
+    border: 1px solid #d9d9d9;
+}

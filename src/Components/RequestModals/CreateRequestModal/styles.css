@@ -1,0 +1,29 @@
+.request_group{
+        display: flex;
+            gap: 20px;
+}
+
+.request-type-button{
+            display: flex;
+                gap: 10px;
+                align-items: center;
+                padding: 10px;
+                border-radius: 10px;
+                border: 1px solid rgba(0, 0, 0, 0.25);
+                    width: 50%;
+                    background: white;
+}
+.request-main-desc{
+    margin: 0;
+    font-weight: 700;
+}
+
+.request-sec-desc{
+    font-size: 10px;
+        color: rgba(0, 0, 0, 0.5);
+}
+
+.request-type-description{
+        display: grid;
+            justify-items: start;
+}

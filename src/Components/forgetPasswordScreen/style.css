@@ -1,0 +1,6 @@
+.email-sent{
+        height: 100%;
+            display: grid;
+            align-content: center;
+            justify-items: center;
+}

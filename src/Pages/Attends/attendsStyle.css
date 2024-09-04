@@ -1,0 +1,56 @@
+.Attends_top{
+    display: flex;
+    gap: 12px;
+    margin: 12px;
+    width: 95%;
+}
+
+.MuiBox-root{
+    overflow-x: hidden;
+}
+
+.marked_attendace{
+        text-transform: uppercase;
+            color: #38CB89;
+            font-weight: 700;
+}
+.btn_check_in_out > div > div:nth-child(3) > .check_in:hover {
+    background: #27a86e;
+    color: #ffffff;
+}
+.btn_check_in_out > div > div:nth-child(3) > .check_out:hover {
+    background: #865b0d;
+    color: #ffffff;
+}
+.machineAttendance > div > div {
+    height: 110px;
+}
+.leavesRow{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap-reverse;
+}
+.leavesRow > .leaveIcon {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    overflow: hidden;
+    width: 60px;
+    height: 60px;
+}
+.leavesRow > div {
+    padding-bottom: 0;
+}
+.paginationStyle > div > div > div > .ant-table-pagination{
+margin: 16px 0 0 0;
+}
+
+.noteStyle{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    color:#00000080;
+    font-size: 14px
+}
